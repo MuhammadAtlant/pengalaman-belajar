@@ -6,7 +6,7 @@ Perkembangan bootcamp Dicoding
   2. Kelas Belajar Membua Frontend Untuk Pemula (Progress 0%)
   
 - Dicoding For University : **Deadline seluruh kelas 16 November 2023**
-  1. Belajar Dasar SQL
+  1. Belajar Dasar SQL (100%)
   2. Belajar dasar github (39%)<br>
      **15 Oktober 202**
      * Studi Kasus Dasar github(Pengalaman Belajar)
